@@ -1,3 +1,7 @@
+# Demo Project
+
+This project is used to test CI/CD pipelines
+
 # Simple Python Flask Dockerized Application#
 
 Build the image using the following command
